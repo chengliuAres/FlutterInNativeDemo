@@ -1,0 +1,15 @@
+//
+//  DebugConfig.xcconfig
+//  FlutterDemo2
+//
+//  Created by Daniel Mini on 2019/11/4.
+//  Copyright © 2019 Daniel Mini. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include "FlutterConfig.xcconfig"
+
+// 如果使用了POD，需要将pod的配置再次引入
+
+#include "Pods/Target Support Files/Pods-FlutterDemo2/Pods-FlutterDemo2.debug.xcconfig"
